@@ -1,2 +1,2 @@
 # vim-legend
-Vim configs, resources, etct for legends only.
+Vim configs, resources, tutorials, etc for legends.
